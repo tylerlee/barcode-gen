@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    barby (0.6.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  barby
